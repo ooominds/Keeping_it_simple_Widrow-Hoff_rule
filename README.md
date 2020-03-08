@@ -8,7 +8,7 @@ This repository contains scripts for the analyses reported in
 
 The paper-package is split into `R` script files which are hosted here on **GitHub** and the supporting datasets in `csv` and `tar.gz` formats are available at University of Birmingham **UBIRA** eData platform:
 
-    <HTTP WILL BE ADDED SOON>
+    https://doi.org/10.25500/edata.bham.00000449
 
 The study contains several analyses, and numbering corresponds to specific subsections.
 
