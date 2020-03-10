@@ -4,7 +4,7 @@
 
 This repository contains scripts for the analyses reported in
 
-> Milin, P., Tayyar Madabushi, H., Croucher, M. and Divjak, D. (2020). Keeping it simple: Implementation and performance of the proto-principle of adaptation and learning in the language sciences. To appear at *arXiv.org*.
+> Milin, P., Tayyar Madabushi, H., Croucher, M. and Divjak, D. (2020). Keeping it simple: Implementation and performance of the proto-principle of adaptation and learning in the language sciences. *arXiv.org*: http://arxiv.org/abs/2003.03813.
 
 The paper-package is split into `R` script files which are hosted here on **GitHub** and the supporting datasets in `csv` and `tar.gz` formats are available at University of Birmingham **UBIRA** eData platform:
 
